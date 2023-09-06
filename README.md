@@ -8,21 +8,15 @@ cuadro de mando.
 
 Esta asignatura va a ser planteada en tres partes: 
 
-1. La primera es una introducción a programación en Python donde se mostrarán las
-principales librerías para lectura, preprocesado y modelado de datos. 
+1. Introducción a programación en Python para realizar tareas de lectura, preprocesado y modelado de datos. 
 
-2. El siguiente bloque tratará sobre creación de una gran variedad de
-gráficos interactivos usando plotly como herramienta principal de visualización y cómo enlazar esos gráficos con cuadros de mandos
-usando Dash. 
+2. Creación de gráficos interactivos usando librerías de visualización y cómo crear cuadros de mando.
 
-3. El último bloque de la asignatura consistirá en conocer los diferentes entornos dentro de un proyecto, desde desarrollo
-hasta producción. Al mismo tiempo se mostrarán las librerías más comunes para despliegue de WebApps y consumo de modelos de
-Machine Learning.
+3. Despliegue de aplicaciones web desde desarrollo hasta producción que consuman APIs, datos, modelos de machine learning y los visualicen.
 
-Durante toda la asignatura se impartirán algunas nociones básicas de los conceptos anteriores pero aplicados en la nube usando AWS. 
+Durante toda la asignatura se impartirán algunas nociones básicas de los conceptos anteriores aplicados a la nube.
 
-Al término del curso se obtendrán conocimientos necesarios para poder realizar un cuadro de mando o una aplicación que facilite la
-visualización y el consumo contínuo de los datos.
+Al término del curso se obtendrán conocimientos necesarios para poder realizar un cuadro de mando o una aplicación que facilite la visualización y el consumo contínuo de los datos.
 
 ## Contenidos de la asignatura
 
