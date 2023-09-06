@@ -55,14 +55,14 @@ La evaluación consta de tres partes diferentes:
 Evaluación de la aplicación:
 
 1. Proponer idea el 13 de septiembre de 2023 y proveer la url del repositorio de Github,
-2. Desarrollar y subir periódicamente al repositorio de Github. (20% - estadísticas del respositorio)
-3. Presentación de la aplicación el 29 de noviembre de 2023 (20% - problema, calidad, diseño y estructura)
+2. Desarrollar y subir periódicamente al repositorio de Github. (20% - Estadísticas del respositorio)
+3. Presentación de la aplicación el 29 de noviembre de 2023 (20% - Calidad de la exposición )
 4. Calidad del código en el respositorio (20%) 
-5. Aplicación desplegada en una url (40% - diseño e interacción)
+5. Aplicación desplegada en una url (40% - Diseño, interacción e innovación del problema resuelto)
 
-__La aplicación deberá ser desarrollada periodicamente y subida a un repositorio de Github. Se considerará parte de la puntuación las actualizaciones y las mejoras observadas que se realicen durante todo el semestre (20%).__
+__Se considerará parte de la puntuación las actualizaciones y las mejoras observadas que se realicen durante todo el semestre.__
 
-__La aplicación deberá ser expuesta y explicada con detalle en clase el día 29 de noviembre de 2023 (20%).__
+__La aplicación deberá ser expuesta y explicada con detalle durante 5 minutos más 2 minutos de preguntas y respuestas por el profesor y los alumnos.__
 
 __IMPORTANTE: PARA APROBAR LA ASIGNATURA HABRÁ QUE APROBAR TODAS LAS PARTES QUE LA CONTIENEN Y HABER ASISTIDO AL MENOS AL 85% DE LAS SESIONES.__
 
