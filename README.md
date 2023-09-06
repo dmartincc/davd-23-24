@@ -57,7 +57,7 @@ Evaluación de la aplicación:
 1. Proponer idea el 13 de septiembre de 2023 y proveer la url del repositorio de Github,
 2. Desarrollar y subir periódicamente al repositorio de Github. (20% - estadísticas del respositorio)
 3. Presentación de la aplicación el 29 de noviembre de 2023 (20% - problema, calidad, diseño y estructura)
-4. Calidad del código en el respositorio (20%)
+4. Calidad del código en el respositorio (20%) 
 5. Aplicación desplegada en una url (40% - diseño e interacción)
 
 __La aplicación deberá ser desarrollada periodicamente y subida a un repositorio de Github. Se considerará parte de la puntuación las actualizaciones y las mejoras observadas que se realicen durante todo el semestre (20%).__
@@ -78,5 +78,9 @@ Anaconda (local): https://www.anaconda.com/products/individual-d
 
 Virtualenvwrapper (local) https://virtualenvwrapper.readthedocs.io/en/latest/
 
+The Hitchhiker’s Guide to Python!: https://docs.python-guide.org/
+
+[Cómo escribir código de calidad](https://docs.python-guide.org/#writing-great-python-code)
+ 
 
 
