@@ -54,16 +54,23 @@ Tema 3: Despliegue de aplicaciones
 
 La evaluación consta de tres partes diferentes:
 
-* Una prueba intersemestral que supondrá un 15% del total. La fecha de esta prueba será el día 18 de octubre de 2022.
-* Desarrollo de una aplicación con un caso de uso propuesto en la segunda sesión. Este desarrollo supondrá un 50% del total. 
-* Un exámen teórico-práctico sobre los contenidos de la asignatura suponiendo un 35% de la nota final.  
+* Una prueba intersemestral - 18 de octubre de 2023 - (15%)
+* Desarrollo de una aplicación - Evaluación continuna y 29 de noviembre de 2023 - (50%)
+* Un exámen teórico-práctico sobre los contenidos de la asignatura - 13 de diciembre de 2023 - (35%)
+
+Evaluación de la aplicación:
+
+1. Proponer idea el 13 de septiembre de 2023 y proveer la url del repositorio de Github,
+2. Desarrollar y subir periódicamente al repositorio de Github. (20% - estadísticas del respositorio)
+3. Presentación de la aplicación el 29 de noviembre de 2023 (20% - problema, calidad, diseño y estructura)
+4. Calidad del código en el respositorio (20%)
+5. Aplicación desplegada en una url (40% - diseño e interacción)
 
 __La aplicación deberá ser desarrollada periodicamente y subida a un repositorio de Github. Se considerará parte de la puntuación las actualizaciones y las mejoras observadas que se realicen durante todo el semestre (20%).__
 
 __La aplicación deberá ser expuesta y explicada con detalle en clase el día 29 de noviembre de 2023 (20%).__
 
 __IMPORTANTE: PARA APROBAR LA ASIGNATURA HABRÁ QUE APROBAR TODAS LAS PARTES QUE LA CONTIENEN Y HABER ASISTIDO AL MENOS AL 85% DE LAS SESIONES.__
-
 
 ## Entorno de trabajo
 
