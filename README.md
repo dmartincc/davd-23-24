@@ -64,6 +64,7 @@ __La aplicación deberá ser expuesta y explicada con detalle en clase el día 2
 
 __IMPORTANTE: PARA APROBAR LA ASIGNATURA HABRÁ QUE APROBAR TODAS LAS PARTES QUE LA CONTIENEN Y HABER ASISTIDO AL MENOS AL 85% DE LAS SESIONES.__
 
+
 ## Entorno de trabajo
 
 __Todos los desarrollos se guardarán dentro de este repositorio en el proyecto asignado correspondiente__, el alumnado tendrá acceso a la lectura de todos los proyectos y de escritura únicamente en el suyo propio.
