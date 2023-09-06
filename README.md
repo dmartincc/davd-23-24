@@ -1,4 +1,4 @@
-# Repositorio para la asignatura Desarrollo de Aplicaciones para la Visualización de Datos
+# Desarrollo de Aplicaciones para la Visualización de Datos (2023-2024)
 
 ## Información general sobre la asignatura
 
@@ -6,14 +6,21 @@ Esta asignatura tiene como finalidad adquirir la capacidad de interpretar un pro
 relevantes del problema a través de los datos resumiendo los resultados mediante el desarrollo y el despliegue de una aplicación o un
 cuadro de mando.
 
-Esta asignatura va a ser planteada en tres partes. La primera es una introducción a programación en Python donde se mostrarán las
-principales librerías para lectura, preprocesado y modelado de datos. El siguiente bloque tratará sobre creación de una gran variedad de
+Esta asignatura va a ser planteada en tres partes: 
+
+1. La primera es una introducción a programación en Python donde se mostrarán las
+principales librerías para lectura, preprocesado y modelado de datos. 
+
+2. El siguiente bloque tratará sobre creación de una gran variedad de
 gráficos interactivos usando plotly como herramienta principal de visualización y cómo enlazar esos gráficos con cuadros de mandos
-usando Dash. El último bloque de la asignatura consistirá en conocer los diferentes entornos dentro de un proyecto, desde desarrollo
+usando Dash. 
+
+3. El último bloque de la asignatura consistirá en conocer los diferentes entornos dentro de un proyecto, desde desarrollo
 hasta producción. Al mismo tiempo se mostrarán las librerías más comunes para despliegue de WebApps y consumo de modelos de
 Machine Learning.
 
 Durante toda la asignatura se impartirán algunas nociones básicas de los conceptos anteriores pero aplicados en la nube usando AWS. 
+
 Al término del curso se obtendrán conocimientos necesarios para poder realizar un cuadro de mando o una aplicación que facilite la
 visualización y el consumo contínuo de los datos.
 
@@ -51,9 +58,11 @@ La evaluación consta de tres partes diferentes:
 * Desarrollo de una aplicación con un caso de uso propuesto en la segunda sesión. Este desarrollo supondrá un 50% del total. 
 * Un exámen teórico-práctico sobre los contenidos de la asignatura suponiendo un 35% de la nota final.  
 
-__La aplicación deberá ser desarrollada periodicamente. Se considerará parte de la puntuación las actualizaciones y las mejoras observadas que se realicen durante todo el semestre (20%). Por último la aplicación deberá ser expuesta y explicada con detalle en clase el día 29 de noviembre de 2023 (20%).__
+__La aplicación deberá ser desarrollada periodicamente y subida a un repositorio de Github. Se considerará parte de la puntuación las actualizaciones y las mejoras observadas que se realicen durante todo el semestre (20%).__
 
-__IMPORTANTE: PARA APROBAR LA ASIGNATURA HABRÁ QUE APROBAR TODAS LAS PARTES QUE LA CONTIENEN Y HABER ASISTIDO A MÄS DEL 85% DE LAS SESIONES.__
+__La aplicación deberá ser expuesta y explicada con detalle en clase el día 29 de noviembre de 2023 (20%).__
+
+__IMPORTANTE: PARA APROBAR LA ASIGNATURA HABRÁ QUE APROBAR TODAS LAS PARTES QUE LA CONTIENEN Y HABER ASISTIDO AL MENOS AL 85% DE LAS SESIONES.__
 
 ## Entorno de trabajo
 
