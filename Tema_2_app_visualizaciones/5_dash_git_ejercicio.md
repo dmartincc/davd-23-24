@@ -1,19 +1,19 @@
-## Ejercicio git y dash
+# Ejercicio git y dash
 
-# Pull repositorio
+## Pull repositorio
 
 ```
 git pull git@github.com:dmartincc/davd-23-24.git
 ```
 Ahora que hemos bajado el repositorio a proceder a:
 
-1. Ir al folder donde tenemos el servidor de dash.
+## Ir al folder donde tenemos el servidor de dash.
 
 ```
 cd Tema_2_app_visualizaciones/ 
 ```
 
-2. Instalar entorno virtual y sus dependencias.
+## Instalar entorno virtual y sus dependencias.
 
 Instalar y configurar virtualenvwrapper para crear entorno virtuales.
 
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 
 Ahora con nuestro entorno virtual con todas las dependencias necesarias podemos arrancar el servidor.
 
-3. Arrancar el servidor de dash.
+## Arrancar el servidor de dash.
 
 ```
 python 3.\ Introduccion\ a\ Dash.py
