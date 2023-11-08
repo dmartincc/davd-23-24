@@ -1,48 +1,66 @@
-# Como desplegar dash app en Heroku
+# Despliegue de una Aplicación Dash en Heroku
 
-Heroku es una plataforma de despliegue de aplicaciones web autogestionada.
+Heroku es una plataforma de despliegue de aplicaciones web fácil de usar. A continuación, se detallan los pasos para desplegar una aplicación Dash en Heroku.
 
-Paso 1. Darse de alta en Heroku
+## Paso 1: Registro en Heroku
 
-Obtener usuario, password e instalar [Heroku cli](https://devcenter.heroku.com/articles/heroku-cli).
+Primero, regístrate en Heroku y obtén un nombre de usuario y contraseña. Luego, instala la [CLI de Heroku](https://devcenter.heroku.com/articles/heroku-cli).
 
-Paso 2.  Crear repositorio y entorno virtual
+## Paso 2: Configuración Inicial
 
-````
-git init   
+Crea un repositorio y un entorno virtual para tu aplicación Dash.
+
+```bash
+git init
 virtualenv venv
 source venv/bin/activate
 ```
 
-## Paso 3. Instalar dependencias
+## Paso 3: Instalación de Dependencias
 
-````
+Asegúrate de que todas las dependencias estén instaladas ejecutando el siguiente comando:
+
+```bash
 pip install -r requirements.txt
 ```
 
-## Paso 4. Programa tu aplicación
+## Paso 4: Programa tu Aplicación
 
-Modifica __app.py__ y añade el código necesario para tu app.
+Modifica el archivo __app.py__ y añade el código necesario para tu aplicación Dash.
 
-## Paso 4. Desplegar aplicación
+## Paso 5: Despliegue de la Aplicación
 
-```
-heroku create my-dash-app # change my-dash-app to a unique name
-git add . # add all files to git
-git commit -m 'Initial app boilerplate'
-git push heroku master # deploy code to heroku
-heroku ps:scale web=1  # run
+1. Crea tu aplicación en Heroku. Asegúrate de usar un nombre único en lugar de "my-dash-app".
+
+```bash
+heroku create my-dash-app # cambia "my-dash-app" por un nombre único
 ```
 
-En la siguiente url deberias tener acceso a tu aplicación. __https://my-dash-app.herokuapp.com__
+2. Agrega todos los archivos al repositorio git, realiza un commit y despliega tu código en Heroku:
 
-Nota: Cambia __my-dash-app__ por el nombre tu aplicación.
-
-## Paso 5. Actualizar aplicación
-
+```bash
+git add . # añade todos los archivos a git
+git commit -m 'Descripción del primer commit'
+git push heroku master # despliega el código en Heroku
 ```
-git status # view the changes
-git add .  # add all the changes
-git commit -m 'a description of the changes'
-git push heroku master
+
+3. Escala tu aplicación para ejecutarla:
+
+```bash
+heroku ps:scale web=1
 ```
+
+Después de completar estos pasos, tu aplicación Dash estará disponible en la siguiente URL: `https://my-dash-app.herokuapp.com`. Asegúrate de reemplazar "my-dash-app" por el nombre de tu aplicación.
+
+## Paso 6: Actualización de la Aplicación
+
+Si necesitas actualizar tu aplicación, sigue estos pasos:
+
+```bash
+git status # visualiza los cambios realizados
+git add . # añade todos los cambios
+git commit -m 'Descripción de los cambios realizados'
+git push heroku master # actualiza la aplicación en Heroku
+```
+
+¡Listo! Ahora puedes desplegar y actualizar tu aplicación Dash en Heroku de manera sencilla.
