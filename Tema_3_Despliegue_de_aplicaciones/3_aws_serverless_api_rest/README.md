@@ -1,15 +1,16 @@
-# Despliegue de una Aplicación Flask con Serverless en AWS
+# Despliegue de una API Rest de Flask con Serverless en AWS
 
-Este repositorio contiene los pasos necesarios para desplegar una aplicación Flask en AWS utilizando una arquitectura serverless, específicamente AWS Lambda y API Gateway. Siga estos pasos para llevar a cabo el despliegue de su aplicación.
+Este repositorio contiene los pasos necesarios para desplegar una aplicación API Rest con Flask en AWS utilizando una arquitectura serverless, específicamente AWS Lambda y API Gateway. Siga estos pasos para llevar a cabo el despliegue de su aplicación.
 
 ## Paso 1: Requisitos Previos
 
-Asegúrese de tener instalado lo siguiente en su sistema:
+Asegúrese de tener instalado lo siguiente en su sistema y de tener una cuenta de AWS.
 
 - [AWS CLI](https://aws.amazon.com/cli/)
 - [Python](https://www.python.org/downloads/)
 - [Flask](https://flask.palletsprojects.com/en/2.1.x/)
 - [Serverless Framework](https://www.serverless.com/)
+
 
 ## Paso 2: Configuración Inicial
 
